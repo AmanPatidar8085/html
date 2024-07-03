@@ -1,0 +1,13 @@
+#parent{
+    height: 50vh;
+    width: 100vw;
+    background-color:blue;
+}
+#chlid{
+    height: 50%;
+    width: 50%;
+    background-color: red;
+}
+li{
+    font-size: 2rem;
+}

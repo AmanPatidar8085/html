@@ -1,0 +1,15 @@
+h1{
+    background-color: red;
+}
+#one{
+    background-color: pink;
+}
+.two{
+    background-color: palevioletred;
+}
+a{
+    color: green;
+}
+a[href="http://facebook.com"]{
+    background-color: cornflowerblue;
+}

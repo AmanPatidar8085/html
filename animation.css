@@ -1,0 +1,39 @@
+div{
+    height:200px ;
+    width: 200px;
+    background-color: brown;
+}
+div:hover{
+    animation-name: new;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-delay: 4s;
+}
+@keyframes new {
+    0%{
+        background-color: black;
+    }
+    25%{
+        height: 300px;
+        width: 400px;
+        background-color: rgb(19, 121, 121);
+        border-radius: 50%;
+    }
+    50%{
+        background-color: blue;
+    }
+    100%{
+        /* height: 600px; */
+        width: 600px;
+        background-color: rgb(226, 43, 49);
+        border-radius: 30%;
+    }
+    /* from{
+        background-color: aqua;
+    }
+        to{
+            background-color: blue;
+            border-radius: 50%;
+        } */
+    }

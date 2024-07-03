@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transition-duration: 4000ms;
+    transition-property: border-radius;
+}div:hover{
+background-color: green;
+height: 400px;
+width: 400px;
+border-radius: 50%;
+}

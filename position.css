@@ -1,0 +1,23 @@
+.container2{
+/* position: relative; */
+/* top: 100px; */
+/* right: 100px; */
+/* left: 100px; */
+/* bottom: 50px; */
+/* position: absolute; */
+position: fixed;
+}
+.container{
+    height: 6000px;
+    position: relative;
+    background-color: aqua;
+}
+.container3{
+    position: sticky;
+    top: 100px;
+    
+}
+.box{
+/* background-color: aquamarine; */
+    /* top: 5000px; */
+}

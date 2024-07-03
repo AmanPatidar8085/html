@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.nav{
+    background-color: rgb(15, 14, 14);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+
+}
+#child{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+} 

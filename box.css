@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: aqua;
+    border: solid rgb(28, 27, 27);
+    /* border-color: rgb(229, 39, 39) ; */
+    border-width: 4px;
+    border-radius: 10px;
+    /* border-top: solid black 5px; */
+    /* border-bottom: solid black 5px; */
+    width: 300px;
+    height: 100px;
+
+}
+.para1{
+
+background-color: rgb(43, 255, 0);
+border: solid rgb(28, 27, 27);
+padding: 50px;
+margin: 50px;
+}
+.para2{
+    border: solid rgb(28, 27, 27);
+    border-radius: 10px;
+    background-color: rgb(255, 123, 0);
+}
+.para3{
+    border: solid rgb(28, 27, 27);
+border-color:rgb(0, 0, 0) ;
+background-color: rgba(255, 0, 0, 0.877);
+}

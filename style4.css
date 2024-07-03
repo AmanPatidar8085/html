@@ -1,0 +1,14 @@
+div{
+    height: 150px;
+    width   :150px;
+    background-color: blueviolet;
+    transition: 2s;
+}
+div:hover{
+background-color: rgb(158, 113, 16);
+border-radius: 50%;
+}
+
+    li:nth-of-type(4){
+        background-color: red;
+    }

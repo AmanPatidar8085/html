@@ -1,0 +1,32 @@
+h1{
+    background-color: red;
+}
+#one{
+    background-color: pink;
+}
+.two{
+    background-color: palevioletred;
+}
+/* a{
+    color: green;
+}
+a[href="http://google.com"]{
+
+    color: cornflowerblue;
+} */
+a[href^='http']{
+    background-color: rgb(235, 100, 237); 
+}
+a[href$='com']{
+   background-color: red;
+
+}
+a[href*='face']{
+background-color :brown;
+}
+*{
+ background-color: aqua;
+}
+div p{
+    color:pink ;
+}
